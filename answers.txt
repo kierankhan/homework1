@@ -1,0 +1,2 @@
+merge merges the changes from one branch into another, and rebase updates the project history so that all the commits from your current branch gets added to the other branch (effectively combining
+the branches into one.
